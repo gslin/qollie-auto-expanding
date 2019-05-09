@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Qollie Auto-expanding
 // @namespace    https://wiki.gslin.org/wiki/Qollie_Auto-expanding
-// @version      0.20190510.0
-// @description  Qollie Auto-expanding
+// @version      0.20190510.1
+// @description  Avoid click expanding links manually in Qollie
 // @author       Gea-Suan Lin <darkkiller@gmail.com>
 // @match        https://www.qollie.com/*
 // @grant        none
