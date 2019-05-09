@@ -6,6 +6,7 @@
 // @author       Gea-Suan Lin <darkkiller@gmail.com>
 // @match        https://www.qollie.com/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
